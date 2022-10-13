@@ -314,9 +314,9 @@ p{
         position: absolute;
         background: red;
         height: 100vh;
-        width: 200px;
+        width: 40vw;
         top: 0;
-        right: -200px;
+        right: -40vw;
         transition: 1s;
         text-align: left;
         z-index: 2;
